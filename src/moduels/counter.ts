@@ -1,0 +1,1 @@
+const INCREASE = 'counter/INCREASE';
